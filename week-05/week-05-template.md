@@ -2,8 +2,6 @@
 
 ====
 
-If you are new to HackMD, please see this short guide: [https://hackmd.io/@ols-4/hackmd-guide](https://hackmd.io/@ols-4/hackmd-guide)
-
 This is an optional cohort call for folks who are new to GitHub. 
 If you have previously worked with GitHub, you can still attend the call as a helper.
 Please contact the Open Life Science team to let them know your interest in co-facilitating the session.
@@ -13,7 +11,7 @@ Please contact the Open Life Science team to let them know your interest in co-f
 ## Before this call
 
 - Please create a GitHub account: [https://github.com](https://github.com)
-- Have a look at the OLS-4 repository for 'project issues': https://github.com/open-life-science/ols-4/issues
+- Have a look at the OLS-7 repository for 'project issues': https://github.com/open-life-science/ols-7/issues
   - Comment of 1-2 project's recent post (vision, open canvas etc.)
 - Create your 'project issue' [as described here](https://www.youtube.com/watch?v=UG5TAIU6IVM)
                                                           
@@ -25,7 +23,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 - Creating a (README) file: Writing in Markdown
 - Managing issues and labels
 - Enabling a small website via GitHub
-- Submit changes (to the OLS-4 repository) via Pull Request (PR)
+- Submit changes (to the OLS-7 repository) via Pull Request (PR)
 - Setting the scene for self-paced learning after this session
   - Demo: Review PR and additional features to look at
 
@@ -101,7 +99,7 @@ After the facilitators have demo-ed how to create a minimal website/Git page:
 :pray: Closing
 ---
 
--   Next cohort call: February 26, 2:00 - 3:30 pm CET ([time zone](https://arewemeetingyet.com/Berlin/2020-02-26/14:00/OLS-1%20Cohort%20Call%20(Week%206)))
+-   
                                                                    
 ### GitHub Resources
 
@@ -144,6 +142,6 @@ After the facilitators have demo-ed how to create a minimal website/Git page:
 - 
 
 
-License: CC BY 4.0, Open Life Science (OLS), 2021
+License: CC BY 4.0, Open Life Science (OLS), 2023
  
 *Reference*: Open Life Science, License*: CC BY 4.0, The Turing Way*
