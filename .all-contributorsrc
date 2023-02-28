@@ -1,0 +1,117 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "malvikasharan",
+      "name": "Malvika Sharan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5370471?v=4",
+      "profile": "https://github.com/malvikasharan",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "yochannah",
+      "name": "Yo Yehudi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9271438?v=4",
+      "profile": "http://yo-yehudi.com",
+      "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
+      "login": "bebatut",
+      "name": "Bérénice Batut",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1842467?v=4",
+      "profile": "http://research.bebatut.fr/",
+      "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
+      "login": "teresa-m",
+      "name": "teresa-m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15613169?v=4",
+      "profile": "https://github.com/teresa-m",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "masako-kaufmann",
+      "name": "masako",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47645313?v=4",
+      "profile": "https://github.com/masako-kaufmann",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "martinagvilas",
+      "name": "Martina G. Vilas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37339384?v=4",
+      "profile": "http://martinagvilas.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "katoss",
+      "name": "Katharina Kloppenborg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23122159?v=4",
+      "profile": "https://github.com/katoss",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ejlawrence144",
+      "name": "ejlawrence144",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78743192?v=4",
+      "profile": "https://github.com/ejlawrence144",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "antonioggsousa",
+      "name": "antonioggsousa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22957109?v=4",
+      "profile": "https://antonioggsousa.github.io/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "camachoreina",
+      "name": "Reina Camacho Toro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12454015?v=4",
+      "profile": "https://github.com/camachoreina",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mxrtinez",
+      "name": "Alexander Martínez Méndez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5553457?v=4",
+      "profile": "https://twitter.com/mxrtinez",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ols-3",
+  "projectOwner": "open-life-science",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
