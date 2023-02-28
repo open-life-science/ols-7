@@ -1,15 +1,13 @@
 # Week 05: GitHub for Collaboration
 
-* Date: 13 October 2021
-* Time: 11:30 - 13:00 UTC (see in your time zone:  https://arewemeetingyet.com/london/2021-10-13/12:30/week-05)
+* Date: 
+* Time: 
 * Duration: 90 minutes
-* Hosts: Yo, Malvika, Bérénice 
-* Syllabus: https://openlifesci.org/ols-4/schedule/#week-05
+* Hosts: Malvika
+* Syllabus: https://openlifesci.org/ols-7/schedule/#week-05
 * Zoom link to join the call:
 
 ====
-
-If you are new to HackMD, please see this short guide: [https://hackmd.io/@ols-4/hackmd-guide](https://hackmd.io/@ols-4/hackmd-guide)
 
 This is an optional cohort call for folks who are new to GitHub. 
 If you have previously worked with GitHub, you can still attend the call as a helper.
@@ -20,7 +18,7 @@ Please contact the Open Life Science team to let them know your interest in co-f
 ## Before this call
 
 - Please create a GitHub account: [https://github.com](https://github.com)
-- Have a look at the OLS-4 repository for 'project issues': https://github.com/open-life-science/ols-4/issues
+- Have a look at the OLS-7 repository for 'project issues': https://github.com/open-life-science/ols-7/issues
   - Comment of 1-2 project's recent post (vision, open canvas etc.)
 - Create your 'project issue' [as described here](https://www.youtube.com/watch?v=UG5TAIU6IVM)
                                                           
@@ -32,7 +30,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 - Creating a (README) file: Writing in Markdown
 - Managing issues and labels
 - Enabling a small website via GitHub
-- Submit changes (to the OLS-4 repository) via Pull Request (PR)
+- Submit changes (to the OLS-7 repository) via Pull Request (PR)
 - Setting the scene for self-paced learning after this session
   - Demo: Review PR and additional features to look at
 
@@ -49,15 +47,15 @@ we will give you a short 1.5 hour GitHub tutorial:
 ## Roll call: The session facilitators will add your name before you edit it.
 
 - *Name / Icebreaker question: Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...*
-* Name 1 / Malvika / Birds chirping in my hometown
-* Name 2 / Jyoti/ Kids fyling kites in the playground
-* Name 4 / Burce / The view from a Bothanical Garden
-* Name 3 / Sara/ finally some morning mist in London! :) trying again?
+* Name 1 / 
+* Name 2 / 
+* Name 4 / 
+* Name 3 / 
 * Name 5 /
-* Name 6 / * Name 6 / Caitlin Augustin / a lovely walk yesterday morning taking my son to preschool - perfect weather, relaxed mood, got to be fully present
-* Name 7 / Sunflowers that kept for 2 weeks! 
+* Name 6 / 
+* Name 7 / 
 * Name 8 / 
-* Name 9 /Sebastián Ayala Ruano
+* Name 9 /
 * Name 10 /
 * Name 11 / 
 * Name 12 / 
@@ -90,7 +88,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 ## Pull Request (PR) Exercise: Breakout-1
 
 After the facilitators have demo-ed how to create PR:
-- Visit the GitHub file for this work: https://github.com/open-life-science/ols-4/week-05-notes.md
+- Visit the GitHub file for this work: https://github.com/open-life-science/ols-7/week-05-notes.md
 - Edit the file by adding details next to your name (click on the pencil symbol) 
 - Commit 'on a new branch' -> create your Pull Request
 
@@ -151,6 +149,6 @@ After the facilitators have demo-ed how to create a minimal website/Git page:
 - 
 
 
-License: CC BY 4.0, Open Life Science (OLS), 2021
+License: CC BY 4.0, Open Life Science (OLS), 2023
  
 *Reference: Open Life Science, License*: CC BY 4.0*
