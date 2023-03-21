@@ -3,7 +3,7 @@
 
 Welcome! This is the [seventh cohort of Open Life Science](https://openlifesci.org/ols-7) (OLS-7) program repository. 
 This repository will be used for the issue tracker feature of GitHub. 
-All the projects going through OLS-4 will use one issue to keep track of their progress during the program (see [projects and participants](https://openlifesci.org/ols-7/projects-participants/)).
+All the projects going through OLS-7 will use one issue to keep track of their progress during the program (see [projects and participants](https://openlifesci.org/ols-7/projects-participants/)).
 
 ## How to Work With Us
 
