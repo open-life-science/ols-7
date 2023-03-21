@@ -1,13 +1,13 @@
-# Open Life Science 4 
+# Open Life Science 7
 
 
-Welcome! This is the [fourth cohort of Open Life Science](https://openlifesci.org/ols-4) (OLS-4) program repository. 
+Welcome! This is the [seventh cohort of Open Life Science](https://openlifesci.org/ols-7) (OLS-7) program repository. 
 This repository will be used for the issue tracker feature of GitHub. 
-All the projects going through OLS-4 will use one issue to keep track of their progress during the program (see [projects and participants](https://openlifesci.org/ols-4/projects-participants/)).
+All the projects going through OLS-7 will use one issue to keep track of their progress during the program (see [projects and participants](https://openlifesci.org/ols-7/projects-participants/)).
 
 ## How to Work With Us
 
-Each issue will provide details for a project currently going through OLS-4. 
+Each issue will provide details for a project currently going through OLS-7. 
 Find out more about each project how you can get involved in the individual issues.
 
 ## Participation Guidelines
