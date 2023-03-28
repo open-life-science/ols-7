@@ -63,7 +63,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 
 * Name 5 /
 
-* Name 6 / 
+* Name 6 / Gabriela / A bird landend on my window 
 
 * Name 7 / 
 
