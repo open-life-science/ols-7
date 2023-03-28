@@ -59,11 +59,11 @@ we will give you a short 1.5 hour GitHub tutorial:
 
 * Name 4 / Malvika / I have a blomming violet hydrangea on my table and it smells amazing.
 
-* Name 3 / Claudia / The sun is shining and after yesterday's hail storm it's very beautiful.
+* Name 3 / Patricia / Something simple but that has brought me joy everday is the birdsong at dawn
 
 * Name 5 /
 
-* Name 6 / Gabriela / A bird landend on my window 
+* Name 6 / 
 
 * Name 7 / 
 
