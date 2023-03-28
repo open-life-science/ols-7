@@ -57,7 +57,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 
 * Name 2 / 
 
-* Name 4 / Malvika / I have a blomming violet hydrangea on my table.
+* Name 4 / Malvika / I have a blomming violet hydrangea on my table and it smells amazing.
 
 * Name 3 / 
 
