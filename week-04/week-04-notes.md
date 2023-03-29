@@ -1,7 +1,7 @@
 
 # Week 4 - Welcome to OLS - 7
 
-*Semaine 04 - Bienvenue à OLS-7 ! *
+*Semaine 04 - Bienvenue à OLS-7 !*
 
 *Ceci est un autre appel d'intégration (identique à la semaine 2) mais dans un fuseau horaire différent pour les personnes qui n'ont pas pu nous rejoindre la semaine 2.*
 
