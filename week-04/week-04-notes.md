@@ -365,4 +365,4 @@ What surprised you?
 
 *Reference: Mozilla Open Leaders, Open Life Science *
 
-*License: CC BY 4.0, Open Life Science (OLS-6), 2022*
+*License: CC BY 4.0, Open Life Science (OLS-7), 2022*
