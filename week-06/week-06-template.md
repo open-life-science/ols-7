@@ -12,9 +12,6 @@
 **Syllabus**: [https://openlifesci.org/ols-7/schedule/#week-06](https://openlifesci.org/ols-7/schedule/#week-06)
 
 
-
-
-
 ## **Join OLS-7 Cohort Room**
 
    * [https://us02web.zoom.us/j/83789414238?pwd=TmxhTnYxcjdEdmFFUEY2R253V3lRUT09](https://us02web.zoom.us/j/83789414238?pwd=TmxhTnYxcjdEdmFFUEY2R253V3lRUT09)
@@ -45,6 +42,7 @@
 ## 🌍 Roll call
 
 **Name / Project / Social handles (Twitter, GitHub, etc.) / Emoji mood**
+
    *  
    *  
    *  
@@ -57,6 +55,7 @@
 ### Icebreaker question
 
 What is your recent favorite tool or app or software?
+
    *  
    *  
    *  
@@ -82,9 +81,11 @@ HOST (⏰ 2 mins)
 Host: HOST (10 min) [⏰ 15]
 
 Presenter: Bérénice Batut
+
    * Slides: https://docs.google.com/presentation/d/1eKRgozsGmJvjPELyP4KMgrgHchp7o58YowC5RkgLNd4/edit?usp=sharing
 
 Notes:
+
    * Open science has many aspects, so we’ll be covering this over three separate cohort calls:
        * Week 06: 04.04.2023 <--- This week
        * Week 10: 02.05.2023
@@ -93,6 +94,7 @@ Notes:
 
 
 Questions:
+
    * 
 
 
@@ -101,13 +103,16 @@ Questions:
 
 Host: HOST (10 min) [⏰ 25]
 
-
 Questions:
+
    * Which Open Science principles did you already **know** before today?
+   
        *  
        *  
        *  
+       
    * Which Open Science principles did you already **apply** before today?
+   
        *  
        *  
        *  
@@ -117,15 +122,18 @@ Questions:
 Host: HOST (10 minutes + 5 for questions) [⏰ 40]
 
 Guest speaker: Olexandr Konovalov
+
    * <Contact / social>
    * Slides: <LINK>
 
 Notes:
+
    *  
    *  
    * 
 
 Questions: 
+
    *  
    *  
    * 
@@ -135,16 +143,19 @@ Questions:
 Host: HOST (10 minutes + 5 for questions) [⏰ 55]
 
 Guest speaker: Umar Farouk
+
    * <Contact / social>
    * Slides: <LINK>
 
 
 Notes:
+
    *  
    *  
    * 
 
 Questions: 
+
    *  
    *  
    *  
@@ -168,39 +179,54 @@ Questions:
        * If applicable, include a comment on who is inside that closeted science and who is out, or who belongs and who doesn’t
            * Think of what group you belong to. 
 
-
 **Breakout room reminder**: If you need assistance in your breakout room, please click the ’ Ask for Help’ button at the bottom of your screen
-
-
 
 #### **Notes from breakout discussions**
 
 Breakout Room 1 - Written/Spoken
+
    * Names
+   
        *  
+       
    * Notes
+   
        * 
 
 Breakout Room 2 - Written/Spoken
+
    * Names
+   
        *  
+   
    * Notes
+   
        * 
+       
 
 Breakout Room 3 - Written/Spoken
+
    * Names
+   
        *  
+       
    * Notes
+   
        * 
 
 Breakout Room 4 - Written/Spoken
+
    * Names
+   
        *  
+       
    * Notes
+   
        * 
 
 
 **Any insights/thoughts/comments to share from your breakout room?**
+
    * 
    * 
    * 
@@ -216,16 +242,19 @@ Breakout Room 4 - Written/Spoken
 Host: HOST (10 minutes + 5 for questions) [⏰ 85]
 
 Guest speaker: Owen Iyoha
+
    * <Contact / social>
    * Slides: <LINK>
 
 
 Notes:
+
    *  
    *  
    * 
 
 Questions: 
+
    *  
    *  
    *  
@@ -236,6 +265,7 @@ Questions:
 Host:  (⏰ 5 minutes) 90
 
 Open Science elements
+
    * Open source software <-- Week 10
    * Open data <-- Week 12
    * Open access publication <-- Week 12
@@ -248,12 +278,16 @@ Open Science elements
 
 
 Assignments
+
    * Check the GitHub Intro notes, learning resource and video from last week
+   
        * Notes (with links to learning resource): [https://bit.ly/ols-7-week-05](https://bit.ly/ols-7-week-05)
-       * Video: 
+       * Video: https://youtu.be/hXRw33CbDJk
+       
    * Prepare to share your project online through Git Pages, Google Site, Wordpress or other option. ← long term assignment, do it in your own pace.
 
 Next weeks:
+
    * Week 7: Attend your Mentor-mentee call
    * Week 8: Cohort call - We will discuss community design for inclusivity 🏡: [https://openlifesci.org/ols-7/schedule/#week-08Open](https://openlifesci.org/ols-7/schedule/#week-08Open)
 
@@ -261,24 +295,29 @@ Next weeks:
 ### Q\&A for after the call 
 
 Response will be shared through notes
+
    * 
 
 
 ### Feedback
 
 What worked?
+
    *  
    *  
 
 What didn’t work?
+
    *  
    *  
 
 What would you change?
+
    *  
    *  
    
 What surprised you?
+
    *  
    * 
    * 
