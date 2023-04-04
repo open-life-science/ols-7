@@ -1,4 +1,5 @@
-# Week 2 - Welcome to OLS - 7
+
+# Week 3 - Welcome to OLS - 7
 
 *Semaine 03 - Bienvenue à OLS-7 ! *
 
