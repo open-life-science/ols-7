@@ -56,10 +56,12 @@ Guest speaker: Chris Hartgerink
 Slides:   
 
 Notes:  
+
 *   
 *   
 
 Questions:  
+
 *   
 *   
 
@@ -72,10 +74,12 @@ Guest speaker: Anshu Bharadwaj
 Slides: <LINK>
 
 Notes:  
+
 *   
 *   
 
 Questions:   
+
 *  
 *   
 *  
@@ -89,10 +93,12 @@ Guest speaker: Pragya Chaube
 Slides: <LINK>
 
 Notes:  
+
 *   
 *   
 
 Questions:   
+
 *   
 *   
  
@@ -119,6 +125,7 @@ Patricia introduces, Cassie  sets-up (15 for breakout + 5 for shared insights) [
 Room 1: Spoken  
 Team member names:  
 Notes:  
+
 *     
 *  
 *  
@@ -127,6 +134,7 @@ Notes:
 Room 2: Written  
 Team member names:  
 Notes:  
+
 *     
 *  
 *      
@@ -134,6 +142,7 @@ Notes:
 Room 3: Spoken   
 Team member names:   
 Notes:  
+
 *     
 *  
 *      
@@ -141,6 +150,7 @@ Notes:
 Room 4: Written   
 Team member names:   
 Notes:   
+
 *     
 *  
 *      
@@ -181,24 +191,28 @@ Response will be shared through notes
 
 ## Feedback
 What worked?
+
 *     
 *  
 *  
  
  
 What didn’t work?
+
 *     
 *  
 *  
  
  
 What would you change?
+
 *     
 *  
 *  
  
  
 What surprised you?
+
 *     
 *  
 *  
